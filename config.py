@@ -1,3 +1,2 @@
-# مِلَفّ الإِعْدَادَات الرَّئِيْسِيَّة لِلْمَشْرُوع
-BOT_TOKEN = "8711628726:AAH6deQFqOLoVZHBVacIDablXW9TUYBbBDI"
-GROUP_DATABASE_ID = None 
+BOT_TOKEN = "7771735537:AAEy5nfjOflwlBum2yUARm0XC2ptCSnK_to"
+GROUP_DATABASE_ID = None
